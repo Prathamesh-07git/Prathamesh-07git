@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Deshmukh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-07git&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-07git" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamesh-07git" alt="prathamesh-07git" /></a> </p>
 
 
 - 🔭 I’m currently working on [Logic Master Tracker](https://java-questions.vercel.app/)
