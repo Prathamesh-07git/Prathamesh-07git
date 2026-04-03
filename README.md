@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Deshmukh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-07git&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-07git" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamesh-07git" alt="prathamesh-07git" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Logic Master Tracker](https://java-questions.vercel.app/)
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **Learning Java, Backend Development, DSA, and SQL**
 
 - 📫 How to reach me **prathameshdeshmukh090@gmail.com**
 
