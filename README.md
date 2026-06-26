@@ -1,98 +1,163 @@
-<div align="center">
+<!-- Banner -->
 
-# Prathamesh Deshmukh
-
-**Backend Engineer · Java Full-Stack · DSA Enthusiast**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-deshmukh-601590289)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFCD?style=flat-square&logo=vercel&logoColor=0D1117)](https://java-questions.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prathameshdeshmukh090@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prathamesh-07git)
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C9A7&height=220&section=header&text=Prathamesh%20Deshmukh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20DSA&descAlignY=58" width="100%">
+</p>
 
 ---
 
-## About
+<h1 align="center">Hi 👋, I'm Prathamesh Deshmukh</h1>
 
-B.Tech CSE student from India 🇮🇳 who loves building scalable backend systems and solving algorithmic problems. Currently focused on Java full-stack development, system design, and DSA grinding for placements.
+<h3 align="center">
+Java Backend Developer • Spring Boot Learner • DSA Enthusiast
+</h3>
 
-- 🔭 Building **[Logic Master Tracker](https://java-questions.vercel.app/)** — a Java Q&A tracker
-- 🌱 Learning **Spring Boot**, **Microservices**, and **System Design**
-- ☁️ Exploring **Google Cloud Platform** & **Firebase**
-- ⚡ Fun fact: I debug faster with coffee ☕
-
----
-
-## Tech Stack
-
-**Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Database & Cloud**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Learner;Building+Real+World+Projects;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## Featured Projects
+## 👨‍💻 About Me
 
-| Project | Description | Stack |
-|---|---|---|
-| [Logic Master Tracker](https://java-questions.vercel.app/) | Full-stack Java interview Q&A tracker | Java, Spring Boot, React |
-| [AI Stock Trend Analyzer](https://github.com/prathamesh-07git) | ML-powered stock trend prediction | Python, ML, React |
-| Driver Monitoring System | Real-time driver alertness detection (Final Year Project) | Python, MediaPipe, YOLOv8, FastAPI |
-
----
-
-## Current Goals
-
-| Priority | Goal | Status |
-|:---:|---|:---:|
-| P0 | Logic Master Tracker — shipping v1 | 🟢 90% |
-| P0 | DSA — 500+ problems | 🟡 70% |
-| P1 | Spring Boot Mastery | 🟡 60% |
-| P1 | System Design (HLD/LLD) | 🟡 40% |
-| P2 | Docker & CI/CD | 🔴 25% |
+- 🎓 B.Tech Computer Science Student
+- 💻 Passionate about Java Backend Development
+- 🌱 Currently learning **Spring Boot, System Design & DSA**
+- 🚀 Building scalable backend applications
+- ☁️ Exploring Cloud & DevOps
+- 📫 Reach me at **prathameshdeshmukh090@gmail.com**
 
 ---
 
-## GitHub Stats
+## 🌐 Connect with Me
 
-<div align="center">
+<p align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathamesh-07git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00FFCD&icon_color=00FFCD&title_color=00FFCD&text_color=FFFFFF&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-07git&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCD&fire=FF6347&currStreakLabel=00FFCD&sideLabels=00FFCD" width="48%" />
+<a href="https://github.com/prathamesh-07git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<br><br>
+<a href="https://www.linkedin.com/in/prathamesh-deshmukh-601590289">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-07git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCD&text_color=FFFFFF" width="40%" />
+<a href="mailto:prathameshdeshmukh090@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-</div>
+<a href="https://java-questions.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=black">
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+# 🚀 Tech Stack
 
-*Open to internships, collaborations, and interesting problems.*  
-📫 **prathameshdeshmukh090@gmail.com**
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,react,nodejs,firebase,docker,git,github,linux,postman,vscode,idea&theme=dark"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚀 Logic Master Tracker | Java + Spring Boot learning platform |
+| 📈 AI Stock Trend Analyzer | AI-powered stock prediction application |
+| 🏃 MoviXa | Fitness tracker built using Flutter & Firebase |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathamesh-07git&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-07git&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-07git&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh-07git&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💡 Currently Learning
+
+- Spring Boot
+- Spring Security
+- Hibernate
+- REST APIs
+- System Design
+- Docker
+- AWS Basics
+- Data Structures & Algorithms
+
+---
+
+# 📚 Goals for 2026
+
+✅ Master Java Backend
+
+✅ Solve 500+ DSA Problems
+
+✅ Build Production-Level Projects
+
+✅ Learn System Design
+
+✅ Contribute to Open Source
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=prathamesh-07git&style=for-the-badge&color=00C9A7"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</h3>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0D1117&height=120&section=footer"/>
+
+</p>
