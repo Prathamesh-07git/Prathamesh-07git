@@ -43,15 +43,7 @@ I build scalable backend systems, clean REST APIs, and real-world products that 
 
 ## Featured Projects
 
----
 
-### Crucible — Online Code Judge *(In Progress)*
-
-Self-hosted judge platform that compiles code, runs test cases, and returns verdicts.
-
-**Tech Stack:** Java • Spring Boot • React
-
----
 
 ### CrisisForge AI
 
