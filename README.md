@@ -31,7 +31,7 @@ I build scalable backend systems, clean REST APIs, and real-world products that 
 ---
 
 | Backend | Data & Tools | DevOps |
-|---------|--------------|---------|
+|---------|--------------|--------|
 | Java, Spring Boot | MySQL, Firebase | Docker, Linux |
 | REST APIs, Hibernate | Git, Postman | System Design |
 
@@ -39,7 +39,7 @@ I build scalable backend systems, clean REST APIs, and real-world products that 
 
 ---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-07git&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathamesh-07git&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true)
 
 ## Featured Projects
 
@@ -47,7 +47,7 @@ I build scalable backend systems, clean REST APIs, and real-world products that 
 
 ### Crucible — Online Code Judge *(In Progress)*
 
-Self-hosted online judge platform that compiles code, runs test cases, and returns verdicts.
+Self-hosted judge platform that compiles code, runs test cases, and returns verdicts.
 
 **Tech Stack:** Java • Spring Boot • React
 
@@ -56,9 +56,7 @@ Self-hosted online judge platform that compiles code, runs test cases, and retur
 ### CrisisForge AI
 
 AI-powered disaster response platform.
-
-Top 10 – HackNagpur 2.0  
-5th Place – HackWhack 3.0
+Top 10 – HackNagpur 2.0 &nbsp;|&nbsp; 5th Place – HackWhack 3.0
 
 **Tech Stack:** Python • AI/ML
 
@@ -66,7 +64,7 @@ Top 10 – HackNagpur 2.0
 
 ### AI Stock Trend Analyzer
 
-Machine Learning based stock trend prediction and visualization.
+ML-based stock trend prediction with real-time visualization.
 
 **Tech Stack:** Python • Machine Learning
 
@@ -74,7 +72,7 @@ Machine Learning based stock trend prediction and visualization.
 
 ### MOVIXA
 
-Cross-platform fitness tracking application with Firebase integration.
+Cross-platform fitness tracker with Firebase real-time sync.
 
 **Tech Stack:** Flutter • Firebase
 
@@ -86,14 +84,10 @@ Cross-platform fitness tracking application with Firebase integration.
 
 <div align="center">
 
-### Connect with Me
+[LinkedIn](https://linkedin.com/in/prathamesh-deshmukh-601590289) &nbsp;•&nbsp; [Portfolio](https://prathamesh-portfolio-eight.vercel.app/) &nbsp;•&nbsp; [Email](mailto:prathameshdeshmukh090@gmail.com)
 
-[LinkedIn](https://linkedin.com/in/prathamesh-deshmukh-601590289) •
-[Portfolio](https://prathamesh-portfolio-eight.vercel.app/) •
-<a href="mailto:prathameshdeshmukh090@gmail.com">Email</a>
+<br>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Prathamesh-07git&style=flat-square&color=586069&label=Profile+Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=prathamesh-07git&style=flat-square&color=586069&label=Profile+Views)
 
 </div>
