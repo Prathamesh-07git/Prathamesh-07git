@@ -39,7 +39,7 @@ I build scalable backend systems, clean REST APIs, and real-world products that 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathamesh-07git&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prathamesh-07git&theme=dark&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/prathamesh-07git)
 
 ## Featured Projects
 
